@@ -1,0 +1,45 @@
+body{
+    background-image: url(3.jpeg);
+    background-size: cover;
+}
+
+.kelas{
+    background:rgba(255, 255, 255, 0.5);
+    border-radius:0.3vh;
+    width: 30vw;
+    height: 50vh;
+    margin: 20vh 31vw;
+    padding: 5vh 3vw;
+}
+
+.kelas h1{
+    color: #222222;
+    text-align: center;
+    font-size: 5vh;
+}
+
+#nis, #password {
+  margin: 4vh 10%;
+  width:  80%;
+  padding: 1vh 0.2vw;
+  background: none;
+  border: none;
+  border-bottom: 0.3vh solid black;
+}
+#btnSimpan {
+    margin: 4vh 10% 4vh 10%;
+    width: 82%;
+    height: 7vh;
+    border-radius: 1vh;
+    border: none;
+    color: white;
+    padding: 1vh 0.2vw;
+    background: #2A2222;
+}
+
+#logo{
+    text-align: center;
+}
+.hm{
+    text-align: center;
+}
