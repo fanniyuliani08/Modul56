@@ -1,9 +1,8 @@
 # Modul56
 
 latihan1
-![alt text](https://github.com/fanniyuliani08/Modul56PHP/blob/master/latihan1.PNG)
+![alt text](https://github.com/fanniyuliani08/Modul56/blob/master/latihan1.PNG)
 
-latihan2
 ![alt text](https://github.com/fanniyuliani08/Modul56PHP/blob/master/latihan2.PNG)
 
 latihan3
